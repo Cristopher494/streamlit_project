@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1f77b4"  # Cambia este valor al color primario que prefieras
+backgroundColor = "#f0f2f6"  # Cambia este valor al color de fondo que prefieras
+secondaryBackgroundColor = "#e6eaf0"  # Cambia este valor al color del fondo secundario que prefieras
+textColor = "#333333"  # Cambia este valor al color del texto que prefieras
+font = "sans serif"  # Cambia este valor a "monospace" o "serif" si prefieres un estilo de fuente diferente
